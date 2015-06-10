@@ -1,5 +1,4 @@
 % Yuan Gao, Rice University
-% ELEC 345 HW3
 
 % run('/Users/gaoyuan/Documents/MATLAB/vlfeat-0.9.20/toolbox/vl_setup')
 close all
